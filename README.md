@@ -14,3 +14,15 @@ This project is a hybrid analytics tool combining a Python preprocessing script 
   - Provides a single‑page view of team strengths, weaknesses, and matchup considerations.
 - Future Integration
 -   Designed to pair with a separate battle‑analytics engine for opponent scouting, event‑level analysis, and predictive modeling.
+
+# Technology Used
+- Excel
+  - Structured References
+  - Dynamic Arrays
+  - Conditional Formatting
+  - Index, Vlookup, Let/Lambda
+- Python
+  - Pandas
+  - JSON parsing
+  - Data Cleaning
+  - Formatting
